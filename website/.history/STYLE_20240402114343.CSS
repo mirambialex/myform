@@ -1,0 +1,32 @@
+*{
+    margin: O;
+    PADDING: 0;
+    
+}
+
+.MAIN{
+    WIDTH: 100%;
+    background: LINEAR-GRADIENT(TO TOP, RGBA(0,0,0,5)50%),RGBA(0,0,0,5)50%), url(1.jpg)
+    background-position: center;
+    background-size: cover;
+    height: 109vh;
+}
+.NAVBAR{
+    width: 1200px;
+    height: 75px;
+    margin: auto;
+}
+.ICON{
+    width: 200px;
+}
+
+.ICON{
+    width: 200PX;
+    float: left;
+    height: 70px;
+}
+
+.logo{
+    color: orange;
+    
+}

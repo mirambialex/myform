@@ -1,0 +1,81 @@
+BODY{
+    background-image: url(IMAGE.JPG);
+    background-color: aquamarine;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-blend-mode: luminosity;
+}
+H1{
+    text-align: center;
+}
+.O{
+    background-color: aliceblue;
+    background-image: url(ALEX.PNG.JPG);
+}
+.MAIN{
+    margin-bottom: 0.8%;
+    background-color: 
+}
+.A{
+    margin-bottom: 0.8%;
+}
+.c{
+    margin-bottom: 1.5%;
+    color: blueviolet;
+    text-decoration: aqua;
+}
+.d{
+    margin-top: 0.4%;
+
+}
+.e{
+    margin-top: 0.6%;
+}
+.AI{
+    background-image: url(ALEX.JPG);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.gb{
+    display: block;
+
+}
+: :-ms-input-placeholder{
+    color:red;
+}
+.address{
+    
+}
+.FORM1{
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+.TABLE1{
+    color: beige;
+    border-radius: 20;
+    
+}
+.FORM2{
+    margin-top: 2%;
+}
+.FILE{
+    margin-top: 2%;
+}
+.SEARCH{
+    width: 350PX;
+    float: left;
+    margin-left: 270PX;
+}
+.SRCH{
+    height: 0;
+    width: 200PX;
+    background: transparent;
+    border: 1PX solid orange;
+    font-family: 'Times New Roman';
+    margin-top: ;
+    color: ;
+    FONT
+}
+

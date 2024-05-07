@@ -1,0 +1,23 @@
+BODY{
+    background-color: bisque;
+    background-image: url(ALEX.PNG.JPG);
+    backface-visibility:visible;
+}
+.MAIN{
+    margin-bottom: 0.8%;
+}
+.A{
+    margin-bottom: 0.8%;
+}
+.c{
+    margin-bottom: 1.5%;
+    color: blueviolet;
+    text-decoration: aqua;
+}
+.d{
+    margin-top: 0.4%;
+
+}
+.e{
+    margin-top: 0.6%;
+}

@@ -1,0 +1,50 @@
+BODY{
+    background-image: url(IMAGE.JPG);
+    background-color: aquamarine;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-blend-mode: luminosity;
+}
+H1{
+    text-align: center;
+}
+.O{
+    background-color: aliceblue;
+    background-image: url(ALEX.PNG.JPG);
+}
+.MAIN{
+    margin-bottom: 0.8%;
+    background-color: 
+}
+.A{
+    margin-bottom: 0.8%;
+}
+.c{
+    margin-bottom: 1.5%;
+    color: blueviolet;
+    text-decoration: aqua;
+}
+.d{
+    margin-top: 0.4%;
+
+}
+.e{
+    margin-top: 0.6%;
+}
+.AI{
+    background-image: url(ALEX.JPG);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.gb{
+    display: block;
+
+}
+: :-ms-input-placeholder{
+    color:red;
+}
+.address{
+    
+}
